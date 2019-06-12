@@ -6,5 +6,11 @@ public class Class1 {
 		System.out.println("Test1");
 
 	}
+	
+	public void test()
+	{
+				System.out.println("Test1");
+
+	}
 
 }
